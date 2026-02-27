@@ -1,0 +1,65 @@
+{
+  "slug": "onchain-alpha",
+  "label": "On-chain Alpha Hunters",
+  "description": "链上交易员社区对 alpha 发现、资金流追踪、meme 打法的讨论和认知分歧",
+  "queries": [
+    "链上alpha",
+    "smart money crypto 2026",
+    "whale tracking onchain",
+    "dexscreener pumpfun solana alpha"
+  ],
+  "sources": {
+    "enabled": true,
+    "mode": "hybrid",
+    "hn": false,
+    "reddit": {
+      "enabled": true,
+      "subreddits": ["solana", "defi", "CryptoMoonShots"]
+    },
+    "bird": {
+      "enabled": true,
+      "keywords": ["链上数据", "叙事", "smart money", "whale", "资金流", "MEME狙击", "on-chain alpha", "dexscreener"],
+      "allowlist_handles": [
+        "Ru7Longcrypto",
+        "noisyb0y1",
+        "cryptoseb",
+        "ai16zdao",
+        "sentientAGI",
+        "0xMumu",
+        "lookonchain",
+        "just8random",
+        "sniper_gamma"
+      ]
+    }
+  },
+  "voices": [
+    "@Ru7Longcrypto",
+    "@noisyb0y1",
+    "@cryptoseb",
+    "@ai16zdao",
+    "@sentientAGI",
+    "@lookonchain"
+  ],
+  "subreddits": [
+    "solana",
+    "defi",
+    "CryptoMoonShots"
+  ],
+  "tensions": {
+    "T1": {
+      "label": "链上数据派 vs 叙事派",
+      "camp_a": "链上数据派 - 相信链上资金流是真实信号",
+      "camp_b": "叙事派 - 相信KOL和故事驱动价格"
+    },
+    "T2": {
+      "label": "Solana meme 玩家 vs Binance Alpha 玩家",
+      "camp_a": "Solana meme 玩家 - 专注 Pump.fun、DEXScreener",
+      "camp_b": "Binance Alpha 玩家 - 专注 Launchpool、新币上市"
+    },
+    "T3": {
+      "label": "AI辅助交易派 vs 纯主观判断派",
+      "camp_a": "AI辅助交易派 - 用工具辅助分析链上数据",
+      "camp_b": "纯主观判断派 - 依赖经验和直觉"
+    }
+  }
+}

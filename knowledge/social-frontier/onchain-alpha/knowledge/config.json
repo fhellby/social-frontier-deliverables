@@ -1,0 +1,70 @@
+{
+  "schema": "social-frontier.config.v1",
+  "domains": [
+    {
+      "slug": "onchain-alpha",
+      "label": "On-chain Alpha Hunters",
+      "enabled": true,
+      "queries": [
+        "链上alpha",
+        "smart money crypto 2026",
+        "whale tracking onchain",
+        "dexscreener pumpfun solana alpha"
+      ]
+    }
+  ],
+  "voices": [
+    "@Ru7Longcrypto",
+    "@noisyb0y1",
+    "@cryptoseb",
+    "@ai16zdao",
+    "@sentientAGI",
+    "@lookonchain"
+  ],
+  "subreddits": [
+    "solana",
+    "defi",
+    "CryptoMoonShots"
+  ],
+  "synthesis": {
+    "top_items_per_domain": 5,
+    "total_frontier_items": 10,
+    "model": "deepseek-chat",
+    "temperature": 0.3
+  },
+  "birdKeywords": [
+    "链上alpha",
+    "smart money crypto 2026",
+    "whale tracking onchain",
+    "dexscreener pumpfun solana alpha"
+  ],
+  "sources": {
+    "web_search": false,
+    "hn": false,
+    "reddit": true,
+    "bird": {
+      "enabled": true,
+      "keywords": [
+        "链上数据",
+        "叙事",
+        "smart money",
+        "whale",
+        "资金流",
+        "MEME狙击",
+        "on-chain alpha",
+        "dexscreener"
+      ],
+      "allowlist_handles": [
+        "Ru7Longcrypto",
+        "noisyb0y1",
+        "cryptoseb",
+        "ai16zdao",
+        "sentientAGI",
+        "0xMumu",
+        "lookonchain",
+        "just8random",
+        "sniper_gamma"
+      ]
+    }
+  }
+}
