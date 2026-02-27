@@ -162,7 +162,11 @@ async function fetchBird(keywords) {
 }
 
 // ── 6551 API (Twitter/X via 6551) ───────────────────────────────────────
-const TOKEN_6551 = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiSHd4UW9VcTJHcG9tWWFybW5IcDkxdWQ1UGQ4eW9hV0x0Tm1MaDVNQjVZOHIiLCJub25jZSI6IjlkOTZlYTA3LTQ5ZjYtNDE1Ny1hMWI1LWU5YmM3ZDkzMTJmZiIsImlhdCI6MTc3MjExNzg4OSwianRpIjoiNWZiZWFlYjEtZGRiZC00MGY1LTg4OTEtMGMwZDcxYmExN2IxIn0.Zzv-oZvFttqNfyeR6DN_bZwvTrauEMLvjBYongjzZqM';
+const TOKEN_6551 = process.env.TW6551_TOKEN;
+if (!TOKEN_6551) {
+  console.error('Missing env: TW6551_TOKEN');
+  process.exit(1);
+}
 
 function fetch6551(keywords, handles) {
   return new Promise((resolve) => {

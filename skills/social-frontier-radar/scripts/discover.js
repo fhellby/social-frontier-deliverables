@@ -15,7 +15,11 @@ const fs = require('fs');
 const path = require('path');
 
 const PROXY = process.env.HTTPS_PROXY || process.env.HTTP_PROXY || 'http://127.0.0.1:10809';
-const DEEPSEEK_KEY = 'sk-b1bce301270d436a81b391e9919b9c7b';
+const DEEPSEEK_KEY = process.env.DEEPSEEK_KEY;
+if (!DEEPSEEK_KEY) {
+  console.error('Missing env: DEEPSEEK_KEY');
+  process.exit(1);
+}
 const DEEPSEEK_URL = 'https://api.deepseek.com/v1/chat/completions';
 const httpsAgent = new HttpsProxyAgent(PROXY);
 
