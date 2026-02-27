@@ -17,8 +17,8 @@
 ### T3 — EV+Kelly 系统派 vs 信息不对称压死散户派
 
 **Camp A:** 预测市场是基于数学公式和策略的严肃交易场所，盈利属于认知变现（支持者：@noisyb0y1）
-**Camp B:** 预测市场本质是赌博，靠运气而非技能，信息不对称压死散户（支持者：此立场在信号中未出现具名支持者）
-**Current state:** Active — confirmed 2026-02-27
+**Camp B:** 待补充（需要具名来源支持"信息不对称/赌博"立场）
+**Current state:** Candidate — needs Camp B evidence (2026-02-27)
 **当前谁在赢:** Camp A — @noisyb0y1 通过连续发布具体策略、代码和数学模型获得高额回报的详细案例
 **信号强度:** accelerating
 

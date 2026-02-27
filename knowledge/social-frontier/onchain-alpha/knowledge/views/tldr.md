@@ -1,12 +1,18 @@
-# Social Frontier TLDR — 2026-02-27
+# On-chain Alpha — TLDR (2026-02-27)
 
-**5 things everyone's talking about:**
-1. **NEL-1** — A new cross-community initiative in AI is popping up. No one’s sure what it is yet, but the name’s starting to circulate.
-2. *[Data Missing]* — The feed’s quiet. Could be a lull, or something’s broken.
-3. *[Data Missing]*
-4. *[Data Missing]*
-5. *[Data Missing]*
+## 本周最热张力
+1) **T2 智能钱策略派 vs 环境致贫派**：策略派占上风（大量高互动内容在展示可复制的 smart money / SMC 方法论）。
+2) **T3 EV+Kelly 系统派 vs 信息不对称派**：系统派在加速（触发点：@noisyb0y1 连发 530+ 回测 + 套利监控工具）。
 
-**Biggest shift this week:** The map is static—today’s scan came back empty, so the frontier feels oddly still.
+## 新证据（改变局面的 3 条）
+- @Crypto_Diet「Bull Run 2026 Roadmap」高热 → 强化 T2 的"策略可复用/可传授"叙事
+- @noisyb0y1 发布 530+ 策略回测 → 强化 T3 的"数学化/可验证"
+- @noisyb0y1 发布套利监控工具 → 把 T3 从观点拉到可执行
 
-**Worth watching:** **NEL-1**. When a new label appears with no clear definition, it usually means someone’s building in stealth, and the rumor mill is about to start.
+## 圈外人不易注意到的 pattern
+- **@noisyb0y1 像"策略军火商"**：不是喊单，而是输出工具/回测/可执行流程，成为两条张力的隐形中枢。
+- **预测市场"正当化"**：从赌博叙事转向量化交易叙事（Kelly + 回测带来的话语权）。
+
+## 下一步
+- 补齐 T3 反方（Camp B）的具名证据来源，决定是否保持 confirmed
+- 继续追踪 RWA 叙事是否持续升温
