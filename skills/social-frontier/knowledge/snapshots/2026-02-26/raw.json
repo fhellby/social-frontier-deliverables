@@ -1,0 +1,483 @@
+{
+  "date": "2026-02-26",
+  "fetchedAt": "2026-02-26T05:17:29.609Z",
+  "hn": [
+    {
+      "id": 47156925,
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 165,
+      "comments": 31,
+      "by": "hiisthisthingon",
+      "source": "hn"
+    },
+    {
+      "id": 47157224,
+      "title": "Jimi Hendrix was a systems engineer",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "score": 388,
+      "comments": 126,
+      "by": "tintinnabula",
+      "source": "hn"
+    },
+    {
+      "id": 47159302,
+      "title": "First Website (1992)",
+      "url": "https://info.cern.ch",
+      "score": 160,
+      "comments": 33,
+      "by": "shrikaranhanda",
+      "source": "hn"
+    },
+    {
+      "id": 47161160,
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "score": 123,
+      "comments": 56,
+      "by": "jnord",
+      "source": "hn"
+    },
+    {
+      "id": 47158975,
+      "title": "How will OpenAI compete?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "score": 113,
+      "comments": 109,
+      "by": "iamskeole",
+      "source": "hn"
+    },
+    {
+      "id": 47112299,
+      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+      "url": "https://simonbergerart.com",
+      "score": 95,
+      "comments": 37,
+      "by": "cs702",
+      "source": "hn"
+    },
+    {
+      "id": 47157398,
+      "title": "Making MCP cheaper via CLI",
+      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "score": 163,
+      "comments": 76,
+      "by": "thellimist",
+      "source": "hn"
+    },
+    {
+      "id": 47154399,
+      "title": "Windows 11 Notepad to support Markdown",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "score": 238,
+      "comments": 375,
+      "by": "andreynering",
+      "source": "hn"
+    },
+    {
+      "id": 47153798,
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "score": 326,
+      "comments": 488,
+      "by": "surprisetalk",
+      "source": "hn"
+    },
+    {
+      "id": 47151842,
+      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+      "url": "https://respectify.org/",
+      "score": 126,
+      "comments": 131,
+      "by": "vintagedave",
+      "source": "hn"
+    },
+    {
+      "id": 47139716,
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "score": 224,
+      "comments": 171,
+      "by": "DalasNoin",
+      "source": "hn"
+    },
+    {
+      "id": 47160226,
+      "title": "Tech companies shouldn't be bullied into doing surveillance",
+      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+      "score": 152,
+      "comments": 34,
+      "by": "pseudolus",
+      "source": "hn"
+    },
+    {
+      "id": 47125014,
+      "title": "The First Fully General Computer Action Model",
+      "url": "https://si.inc/posts/fdm1/",
+      "score": 188,
+      "comments": 58,
+      "by": "nee1r",
+      "source": "hn"
+    },
+    {
+      "id": 47154971,
+      "title": "The Om Programming Language",
+      "url": "https://www.om-language.com/",
+      "score": 242,
+      "comments": 57,
+      "by": "tosh",
+      "source": "hn"
+    },
+    {
+      "id": 47141107,
+      "title": "Learnings from 4 months of Image-Video VAE experiments",
+      "url": "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation",
+      "score": 88,
+      "comments": 13,
+      "by": "schopra909",
+      "source": "hn"
+    },
+    {
+      "id": 47137140,
+      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+      "score": 63,
+      "comments": 17,
+      "by": "jonasn",
+      "source": "hn"
+    },
+    {
+      "id": 47152982,
+      "title": "GNU Texmacs",
+      "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+      "score": 140,
+      "comments": 44,
+      "by": "remywang",
+      "source": "hn"
+    },
+    {
+      "id": 47155597,
+      "title": "Show HN: I ported Tree-sitter to Go",
+      "url": "https://github.com/odvcencio/gotreesitter",
+      "score": 201,
+      "comments": 85,
+      "by": "odvcencio",
+      "source": "hn"
+    },
+    {
+      "id": 47110066,
+      "title": "Access to a Shared Unix Computer",
+      "url": "http://tilde.club/",
+      "score": 58,
+      "comments": 18,
+      "by": "TigerUniversity",
+      "source": "hn"
+    },
+    {
+      "id": 47151233,
+      "title": "Never buy a .online domain",
+      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+      "score": 692,
+      "comments": 429,
+      "by": "ssiddharth",
+      "source": "hn"
+    },
+    {
+      "id": 47102610,
+      "title": "Text-Based Google Directions",
+      "url": "https://gdir.telae.net/",
+      "score": 70,
+      "comments": 19,
+      "by": "TigerUniversity",
+      "source": "hn"
+    },
+    {
+      "id": 47153924,
+      "title": "The Misuses of the University",
+      "url": "https://www.publicbooks.org/the-misuses-of-the-university/",
+      "score": 141,
+      "comments": 109,
+      "by": "ubasu",
+      "source": "hn"
+    },
+    {
+      "id": 47154009,
+      "title": "Following 35% growth, solar has passed hydro on US grid",
+      "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+      "score": 441,
+      "comments": 386,
+      "by": "rbanffy",
+      "source": "hn"
+    },
+    {
+      "id": 47149701,
+      "title": "Danish government agency to ditch Microsoft software (2025)",
+      "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+      "score": 759,
+      "comments": 373,
+      "by": "robtherobber",
+      "source": "hn"
+    },
+    {
+      "id": 47149151,
+      "title": "LLM=True",
+      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "score": 226,
+      "comments": 139,
+      "by": "avh3",
+      "source": "hn"
+    },
+    {
+      "id": 47152085,
+      "title": "New accounts on HN more likely to use em-dashes",
+      "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+      "score": 630,
+      "comments": 519,
+      "by": "todsacerdoti",
+      "source": "hn"
+    },
+    {
+      "id": 47154076,
+      "title": "Why isn't LA repaving streets?",
+      "url": "https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/",
+      "score": 110,
+      "comments": 249,
+      "by": "speckx",
+      "source": "hn"
+    }
+  ],
+  "reddit": {
+    "ai-ml": [
+      {
+        "title": "Updates for ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/",
+        "score": 3539,
+        "comments": 1336,
+        "subreddit": "ChatGPT",
+        "source": "reddit"
+      },
+      {
+        "title": "QuitGPT is going viral - 700,000 users are reportedly ditching ChatGPT for these AI rivals",
+        "url": "https://www.tomsguide.com/ai/700-000-users-are-ditching-chatgpt-heres-why-and-where-theyre-going?utm_source=chatgpt.com",
+        "score": 3254,
+        "comments": 490,
+        "subreddit": "ChatGPT",
+        "source": "reddit"
+      },
+      {
+        "title": "I built a body for GPT",
+        "url": "https://v.redd.it/7wstgatmxplg1",
+        "score": 1215,
+        "comments": 240,
+        "subreddit": "ChatGPT",
+        "source": "reddit"
+      },
+      {
+        "title": "\"Just get chatgpt Plus\"",
+        "url": "https://i.redd.it/594zdrs0wmlg1.jpeg",
+        "score": 874,
+        "comments": 226,
+        "subreddit": "ChatGPT",
+        "source": "reddit"
+      },
+      {
+        "title": "GPT-4o/GPT-5 complaints megathread",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/",
+        "score": 579,
+        "comments": 4019,
+        "subreddit": "ChatGPT",
+        "source": "reddit"
+      },
+      {
+        "title": "Pfft, and they said having an AI gf could never come close to the real thing",
+        "url": "https://i.redd.it/eft60fzyumlg1.jpeg",
+        "score": 501,
+        "comments": 217,
+        "subreddit": "ChatGPT",
+        "source": "reddit"
+      },
+      {
+        "title": "Claude knows what’s up",
+        "url": "https://www.reddit.com/gallery/1reeggy",
+        "score": 482,
+        "comments": 105,
+        "subreddit": "ChatGPT",
+        "source": "reddit"
+      },
+      {
+        "title": "Qwen 3.5 craters on hard coding tasks — tested all Qwen3.5 models (And Codex 5.3) on 70 real repos so you don't have to.",
+        "url": "https://i.redd.it/5g4ostqlbnlg1.png",
+        "score": 424,
+        "comments": 187,
+        "subreddit": "LocalLLaMA",
+        "source": "reddit"
+      }
+    ],
+    "crypto-web3": [
+      {
+        "title": "Netherlands Forced to Rethink 36% Tax on Unrealized Gains after Massive Criticism",
+        "url": "https://www.reddit.com/r/CryptoCurrency/comments/1regljc/netherlands_forced_to_rethink_36_tax_on/",
+        "score": 1421,
+        "comments": 281,
+        "subreddit": "CryptoCurrency",
+        "source": "reddit"
+      },
+      {
+        "title": "Bitcoin surges from 63.9k to nearly 69k in just hours after analysts suggests the \"crypto winter\" has ended",
+        "url": "https://www.reddit.com/r/Bitcoin/comments/1rekdiv/bitcoin_surges_from_639k_to_nearly_69k_in_just/",
+        "score": 1119,
+        "comments": 323,
+        "subreddit": "Bitcoin",
+        "source": "reddit"
+      },
+      {
+        "title": "We Are So Back!",
+        "url": "https://i.redd.it/nkwnmunzgplg1.png",
+        "score": 1097,
+        "comments": 34,
+        "subreddit": "CryptoCurrency",
+        "source": "reddit"
+      },
+      {
+        "title": "Bitcoin loses over 20,000 millionaires since the start of 2026",
+        "url": "https://finbold.com/bitcoin-loses-over-20000-millionaires-since-the-start-of-2026-finbold-report/",
+        "score": 827,
+        "comments": 55,
+        "subreddit": "CryptoCurrency",
+        "source": "reddit"
+      },
+      {
+        "title": "Google searches for \"buy bitcoin\" at highest level in 5 years",
+        "url": "https://x.com/kalshi/status/2026725340517712220?s=61&amp;t=911XcFq5FV9qoH1Ja3r1TQ",
+        "score": 546,
+        "comments": 38,
+        "subreddit": "Bitcoin",
+        "source": "reddit"
+      },
+      {
+        "title": "I bought at 20k..4 years ago",
+        "url": "https://www.reddit.com/r/Bitcoin/comments/1revtqk/i_bought_at_20k4_years_ago/",
+        "score": 221,
+        "comments": 60,
+        "subreddit": "Bitcoin",
+        "source": "reddit"
+      },
+      {
+        "title": "Binance under fire for Iranian trades as crypto money laundering hits $82B",
+        "url": "https://www.cryptopolitan.com/binance-under-fire-for-iranian-trades/",
+        "score": 220,
+        "comments": 15,
+        "subreddit": "CryptoCurrency",
+        "source": "reddit"
+      },
+      {
+        "title": "Morgan Stanley's Amy Oldenburg confirms the bank has plans to offer Bitcoin trading, lending, yield, and custody in the future",
+        "url": "https://v.redd.it/phqxnat4cplg1",
+        "score": 169,
+        "comments": 1,
+        "subreddit": "Bitcoin",
+        "source": "reddit"
+      }
+    ],
+    "startups-vc": [
+      {
+        "title": "Niched into serving only pediatric dental offices and went from $4k to $22k/month in 8 months",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1rdszm9/niched_into_serving_only_pediatric_dental_offices/",
+        "score": 412,
+        "comments": 75,
+        "subreddit": "Entrepreneur",
+        "source": "reddit"
+      },
+      {
+        "title": "YC Resources {Please read this first!}",
+        "url": "https://www.reddit.com/r/ycombinator/comments/12z5k88/yc_resources_please_read_this_first/",
+        "score": 99,
+        "comments": 11,
+        "subreddit": "ycombinator",
+        "source": "reddit"
+      },
+      {
+        "title": "Spring '26 Megathread",
+        "url": "https://www.reddit.com/r/ycombinator/comments/1q5so7y/spring_26_megathread/",
+        "score": 57,
+        "comments": 441,
+        "subreddit": "ycombinator",
+        "source": "reddit"
+      },
+      {
+        "title": "How are you making 10k+ a month or what are you doing to reach 10k+ a month?",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1req48e/how_are_you_making_10k_a_month_or_what_are_you/",
+        "score": 55,
+        "comments": 90,
+        "subreddit": "Entrepreneur",
+        "source": "reddit"
+      }
+    ],
+    "dev-tools": [
+      {
+        "title": "“Falsehoods Programmers Believe About Time” still the best reminder that time handling is fundamentally broken",
+        "url": "https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time",
+        "score": 763,
+        "comments": 207,
+        "subreddit": "programming",
+        "source": "reddit"
+      },
+      {
+        "title": "1password just increased their pricing by 33%. What are some open source alternatives?",
+        "url": "https://www.reddit.com/r/webdev/comments/1rdoncs/1password_just_increased_their_pricing_by_33_what/",
+        "score": 732,
+        "comments": 481,
+        "subreddit": "webdev",
+        "source": "reddit"
+      },
+      {
+        "title": "Fake Job Interviews Are Installing Backdoors on Developer Machines",
+        "url": "https://threatroad.substack.com/p/fake-job-interviews-are-installing",
+        "score": 577,
+        "comments": 79,
+        "subreddit": "programming",
+        "source": "reddit"
+      },
+      {
+        "title": "AI has taken fun out of programming and now i’m hopeless",
+        "url": "https://www.reddit.com/r/webdev/comments/1rer3t1/ai_has_taken_fun_out_of_programming_and_now_im/",
+        "score": 519,
+        "comments": 404,
+        "subreddit": "webdev",
+        "source": "reddit"
+      },
+      {
+        "title": "\"Vibe Coding\" Threatens Open Source",
+        "url": "https://www.infoq.com/news/2026/02/ai-floods-close-projects/",
+        "score": 348,
+        "comments": 104,
+        "subreddit": "programming",
+        "source": "reddit"
+      },
+      {
+        "title": "curl security moves again [from GitHub back to hackerone; still no bug-bounty]",
+        "url": "https://daniel.haxx.se/blog/2026/02/25/curl-security-moves-again/",
+        "score": 117,
+        "comments": 11,
+        "subreddit": "programming",
+        "source": "reddit"
+      },
+      {
+        "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
+        "url": "https://www.reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
+        "score": 114,
+        "comments": 68,
+        "subreddit": "programming",
+        "source": "reddit"
+      },
+      {
+        "title": "has anyone else quietly replaced half their JS with native CSS this year",
+        "url": "https://www.reddit.com/r/webdev/comments/1rewfab/has_anyone_else_quietly_replaced_half_their_js/",
+        "score": 86,
+        "comments": 36,
+        "subreddit": "webdev",
+        "source": "reddit"
+      }
+    ]
+  }
+}

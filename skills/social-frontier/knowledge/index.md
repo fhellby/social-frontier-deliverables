@@ -1,0 +1,25 @@
+# Social Frontier — Knowledge Index
+
+**Last updated**: 2026-02-26
+
+## Available Knowledge
+- `frontier/trending.md` — living topic tracker
+- `frontier/voices.md` — key voices log
+- `snapshots/` — daily deltas (earliest: auto-populated)
+- `views/tldr.md` — quick 5-bullet summary
+- `views/deep-dive.md` — detailed domain breakdown
+
+## Current Snapshot (2026-02-26)
+**5 things everyone's talking about:**
+1. **Developer identity crisis** — AI-assisted coding is now seen as killing the *fun* and purpose of programming, not just creating technical debt.
+2. **AI user fragility** — "QuitGPT" is going viral as users rapidly ditch ChatGPT for rivals, showing low loyalty despite supposed platform lock-in.
+3. **Crypto euphoria is back** — Sentiment violently pivoted to "We Are So Back!" with Bitcoin surging, signaling a new speculative cycle.
+4. **Frontier model stagnation** — Even GPT-4o/5 are getting roasted in complaint threads for regressing on real-world tasks.
+5. **Agent stack convergence** — New "fully general computer action model" drops, building out the open-source autonomous developer environment.
+
+**Biggest shift this week:** The developer backlash against AI has evolved from a quality debate into an emotional crisis about lost craft and creative purpose.
+
+**Worth watching:** Whether the mass churn from ChatGPT flows to open-source alternatives or just gets captured by other closed models.
+
+## How to Use
+When a user asks "what's trending", "what are people discussing", or questions that touch AI/tech/startup/crypto community discourse, reference these files. Start with `views/tldr.md` for quick context, `views/deep-dive.md` for domain detail.

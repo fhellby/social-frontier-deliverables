@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "ai-agents",
+    "label": "AI Agents",
+    "enabled": false,
+    "note": "Focused deep-dive on agentic AI — memory, planning, proactive behavior. Enable when ready to track separately from broad social signals.",
+    "redditSubs": ["LocalLLaMA", "MachineLearning", "artificial"],
+    "hnFilter": ["agent", "autonomous", "memory", "LLM", "agentic"]
+  },
+  {
+    "slug": "china-tech",
+    "label": "China Tech",
+    "enabled": false,
+    "note": "Focused on Chinese AI/tech ecosystem — DeepSeek, Qwen, ByteDance, etc.",
+    "redditSubs": ["China", "Sino"],
+    "hnFilter": ["DeepSeek", "Qwen", "ByteDance", "China", "Baidu"]
+  }
+]

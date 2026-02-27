@@ -1,0 +1,87 @@
+{
+  "schema": "social-frontier.config.v1",
+  "domains": [
+    {
+      "slug": "onchain-alpha",
+      "label": "On-chain Alpha Hunters",
+      "enabled": true,
+      "queries": [
+        "on-chain data crypto whale movement alpha signal",
+        "smart money tracking crypto wallet addresses trending",
+        "dexscreener raydium pumpfun solana alpha today",
+        "crypto on-chain analytics whale alerts this week"
+      ]
+    },
+    {
+      "slug": "crypto-ai",
+      "label": "Crypto x AI",
+      "enabled": true,
+      "queries": [
+        "crypto AI agent token trending discussion 2026",
+        "Bitcoin AI tokens DePIN narrative this week",
+        "blockchain AI agent developments community reaction",
+        "AI crypto narrative investing this week"
+      ]
+    },
+    {
+      "slug": "ai-ml",
+      "label": "AI / ML",
+      "enabled": true,
+      "queries": [
+        "what are AI researchers and practitioners discussing on Twitter X today 2026",
+        "trending AI ML papers discussions community today",
+        "latest AI agent LLM developments community reaction",
+        "AI startup funding announcements community discussion this week"
+      ]
+    },
+    {
+      "slug": "crypto-web3",
+      "label": "Crypto / Web3",
+      "enabled": true,
+      "queries": [
+        "what is crypto Twitter discussing today hot topics",
+        "DeFi Bitcoin Ethereum trending narratives community today",
+        "crypto VC narrative this week community signal"
+      ]
+    },
+    {
+      "slug": "startups-vc",
+      "label": "Startups / VC",
+      "enabled": true,
+      "queries": [
+        "what are founders VCs discussing on Twitter today 2026",
+        "hot startup topics YC community this week",
+        "VC investment thesis trending discourse this week"
+      ]
+    },
+    {
+      "slug": "dev-tools",
+      "label": "Dev Tools / OSS",
+      "enabled": true,
+      "queries": [
+        "trending developer tools open source releases community this week",
+        "hot GitHub projects developers discussing today",
+        "programming language framework community debate this week"
+      ]
+    }
+  ],
+  "voices": {
+    "note": "Key accounts — used for context in synthesis prompt, not scraped directly",
+    "ai": ["@karpathy", "@sama", "@demishassabis", "@ylecun", "@GaryMarcus", "@emollick", "@drjimfan"],
+    "crypto": ["@VitalikButerin", "@balajis", "@naval"],
+    "crypto-ai": ["@cryptoseb", "@aiwithvitalik", "@ai16zdao", "@sentientAGI"],
+    "startups": ["@paulg", "@pmarca", "@benedictevans"],
+    "devtools": ["@dan_abramov", "@rauchg", "@leeerob"]
+  },
+  "synthesis": {
+    "top_items_per_domain": 3,
+    "total_frontier_items": 10,
+    "model": "deepseek-chat",
+    "temperature": 0.3
+  },
+  "sources": {
+    "web_search": true,
+    "hn": true,
+    "reddit": false
+  }
+}

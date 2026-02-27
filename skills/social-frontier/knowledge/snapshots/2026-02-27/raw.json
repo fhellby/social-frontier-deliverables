@@ -1,0 +1,258 @@
+{
+  "date": "2026-02-27",
+  "fetchedAt": "2026-02-27T04:04:32.450Z",
+  "hn": [
+    {
+      "id": 47173121,
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "score": 1189,
+      "comments": 651,
+      "by": "qwertox",
+      "source": "hn"
+    },
+    {
+      "id": 47175931,
+      "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "score": 69,
+      "comments": 15,
+      "by": "mikece",
+      "source": "hn"
+    },
+    {
+      "id": 47172119,
+      "title": "Layoffs at Block",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "score": 552,
+      "comments": 580,
+      "by": "mlex",
+      "source": "hn"
+    },
+    {
+      "id": 47169757,
+      "title": "What Claude Code Chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "score": 283,
+      "comments": 116,
+      "by": "tin7in",
+      "source": "hn"
+    },
+    {
+      "id": 47167763,
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "score": 332,
+      "comments": 160,
+      "by": "DamnInteresting",
+      "source": "hn"
+    },
+    {
+      "id": 47167931,
+      "title": "Will vibe coding end like the maker movement?",
+      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "score": 339,
+      "comments": 332,
+      "by": "itunpredictable",
+      "source": "hn"
+    },
+    {
+      "id": 47171233,
+      "title": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "score": 169,
+      "comments": 105,
+      "by": "alexmolas",
+      "source": "hn"
+    },
+    {
+      "id": 47170174,
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "url": "https://www.usecardboard.com/",
+      "score": 100,
+      "comments": 51,
+      "by": "sxmawl",
+      "source": "hn"
+    },
+    {
+      "id": 47172664,
+      "title": "Smartphone market forecast to decline this year due to memory shortage",
+      "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+      "score": 186,
+      "comments": 188,
+      "by": "littlexsparkee",
+      "source": "hn"
+    },
+    {
+      "id": 47128645,
+      "title": "I baked a pie every day for a year and it changed my life",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "score": 236,
+      "comments": 160,
+      "by": "NaOH",
+      "source": "hn"
+    },
+    {
+      "id": 47168726,
+      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "score": 168,
+      "comments": 80,
+      "by": "spiffytech",
+      "source": "hn"
+    },
+    {
+      "id": 47124999,
+      "title": "Museum of Plugs and Sockets",
+      "url": "https://plugsocketmuseum.nl/index.html",
+      "score": 86,
+      "comments": 33,
+      "by": "ohjeez",
+      "source": "hn"
+    },
+    {
+      "id": 47170157,
+      "title": "OsmAnd's Faster Offline Navigation (2025)",
+      "url": "https://osmand.net/blog/fast-routing/",
+      "score": 123,
+      "comments": 36,
+      "by": "todsacerdoti",
+      "source": "hn"
+    },
+    {
+      "id": 47166264,
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "score": 156,
+      "comments": 52,
+      "by": "jasonpeacock",
+      "source": "hn"
+    },
+    {
+      "id": 47141119,
+      "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
+      "url": "https://hackersmacker.org",
+      "score": 97,
+      "comments": 100,
+      "by": "conesus",
+      "source": "hn"
+    },
+    {
+      "id": 47145082,
+      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+      "url": "https://www.playlinex.com/",
+      "score": 56,
+      "comments": 19,
+      "by": "Humanista75",
+      "source": "hn"
+    },
+    {
+      "id": 47169518,
+      "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
+      "url": "https://github.com/flamestro/deff",
+      "score": 83,
+      "comments": 52,
+      "by": "flamestro",
+      "source": "hn"
+    },
+    {
+      "id": 47167858,
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "score": 509,
+      "comments": 489,
+      "by": "davidbarker",
+      "source": "hn"
+    },
+    {
+      "id": 47119665,
+      "title": "The Wolfram S Combinator Challenge",
+      "url": "https://www.combinatorprize.org/",
+      "score": 80,
+      "comments": 22,
+      "by": "paraschopra",
+      "source": "hn"
+    },
+    {
+      "id": 47165792,
+      "title": "This time is different",
+      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+      "score": 137,
+      "comments": 219,
+      "by": "speckx",
+      "source": "hn"
+    },
+    {
+      "id": 47159833,
+      "title": "Steering interpretable language models with concept algebra",
+      "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+      "score": 63,
+      "comments": 4,
+      "by": "luulinh90s",
+      "source": "hn"
+    },
+    {
+      "id": 47174777,
+      "title": "Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries",
+      "url": "https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel",
+      "score": 100,
+      "comments": 47,
+      "by": "mikece",
+      "source": "hn"
+    },
+    {
+      "id": 47129589,
+      "title": "The Physics and Economics of Moving 44 Tonnes at 56mph",
+      "url": "https://www.mikeayles.com/blog/heavy-haulage-basics/",
+      "score": 103,
+      "comments": 91,
+      "by": "mikeayles",
+      "source": "hn"
+    },
+    {
+      "id": 47173583,
+      "title": "Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-backs-out-warners-deal-paramount-win-1236516763/",
+      "score": 93,
+      "comments": 72,
+      "by": "atombender",
+      "source": "hn"
+    },
+    {
+      "id": 47156925,
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 1218,
+      "comments": 291,
+      "by": "hiisthisthingon",
+      "source": "hn"
+    },
+    {
+      "id": 47163885,
+      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "url": "https://news.ycombinator.com/item?id=47163885",
+      "score": 605,
+      "comments": 228,
+      "by": "miki123211",
+      "source": "hn"
+    },
+    {
+      "id": 47168012,
+      "title": "Open Source Endowment – new funding source for open source maintainers",
+      "url": "https://endowment.dev/",
+      "score": 215,
+      "comments": 132,
+      "by": "kvinogradov",
+      "source": "hn"
+    },
+    {
+      "id": 47165299,
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "score": 68,
+      "comments": 84,
+      "by": "littlexsparkee",
+      "source": "hn"
+    }
+  ]
+}
